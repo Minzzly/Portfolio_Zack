@@ -1,0 +1,22 @@
+.overlay {
+    .overlay__play {
+        display: flex;
+        align-items: center;
+        position: fixed;
+        top: 45px;
+        left: 50px;
+
+        p {
+            margin: 0;
+        }
+    }
+
+    .overlay__static,
+    .overlay__tv {
+        opacity: 0.35;
+        background-blend-mode: multiply;
+        position: fixed;
+        width: 100vw;
+        height: 100vh;
+    }
+}

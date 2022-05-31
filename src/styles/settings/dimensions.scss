@@ -11,19 +11,9 @@ $breakpoint-xl: 1920px;
 
 :root {
     //-----SPACING 1920px----
-    --spacing-xs: 10px;
-    --spacing-sm: 15px;
-    --spacing-md: 30px;
-    --spacing-lg: 50px;
-    --spacing-xl: 190px;
-
-    //-----SPACING 1440px-----
-    --spacing-lg-bplg:125px;
-
-    //----SPACING 768px-------
-    --spacing-md-bpsm:15px;
-    --spacing-lg-bpsm:90px;
-
-    //----SPACING 375px -----
-    --spacing-xs-bpxs:5px;
+    --spacing-xs: 15px;
+    --spacing-sm: 25px;
+    --spacing-md: 35px;
+    --spacing-lg: 75px;
+    --spacing-xl: 120px;
 }
