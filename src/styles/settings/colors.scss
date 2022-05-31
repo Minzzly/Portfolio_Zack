@@ -5,20 +5,12 @@
 :root {
     // Couleur de base
     --color-white: #fff;
-    --color-black: #001524;
+    --color-black: #000;
 
     // Couleurs du projet
-    --color-primary: #001524;
-    --color-secondary: #15616D;
+    --color-primary: #D64045;
 
     //couleur-background
-    --color-background-primary: #F1FFFA;
+    --color-background-primary: radial-gradient(#484848, #262626);
     --color-background-secondary: #EB5160;
-
-    //couleurs-palettes
-    --color-palette-primary: #540d6e;
-    --color-palette-secondary: #ffd23f;
-    --color-palette-tertiary: #3bceac;
-    --color-palette-quaterny: #2e86ab;
-    --color-palette-quinary: #d8b094;
 }
